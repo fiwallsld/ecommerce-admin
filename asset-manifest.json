@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ecommerce-admin/static/css/main.0c066391.chunk.css",
-    "main.js": "/ecommerce-admin/static/js/main.d7a900a5.chunk.js",
-    "main.js.map": "/ecommerce-admin/static/js/main.d7a900a5.chunk.js.map",
+    "main.js": "/ecommerce-admin/static/js/main.69bcd73c.chunk.js",
+    "main.js.map": "/ecommerce-admin/static/js/main.69bcd73c.chunk.js.map",
     "runtime~main.js": "/ecommerce-admin/static/js/runtime~main.dab03974.js",
     "runtime~main.js.map": "/ecommerce-admin/static/js/runtime~main.dab03974.js.map",
     "static/js/2.5a6eae2e.chunk.js": "/ecommerce-admin/static/js/2.5a6eae2e.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.39e71fec.chunk.js": "/ecommerce-admin/static/js/3.39e71fec.chunk.js",
     "static/js/3.39e71fec.chunk.js.map": "/ecommerce-admin/static/js/3.39e71fec.chunk.js.map",
     "index.html": "/ecommerce-admin/index.html",
-    "precache-manifest.8594f09b825faf5dac2668c72c846998.js": "/ecommerce-admin/precache-manifest.8594f09b825faf5dac2668c72c846998.js",
+    "precache-manifest.3290902388ca8f844fe1b8f5aa002e8a.js": "/ecommerce-admin/precache-manifest.3290902388ca8f844fe1b8f5aa002e8a.js",
     "service-worker.js": "/ecommerce-admin/service-worker.js",
     "static/css/main.0c066391.chunk.css.map": "/ecommerce-admin/static/css/main.0c066391.chunk.css.map"
   }
